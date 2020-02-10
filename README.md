@@ -11,4 +11,4 @@ _La calculadora está realizada organizada con lo siguiente:_
 * [Handlebars](https://handlebarsjs.com/) - Es un motor de plantillas muy popular.
 
 ### Autor ✒️
-* **Alumno: _Ezequiel Romero_** 
+
