@@ -10,5 +10,18 @@ _La calculadora está realizada organizada con lo siguiente:_
 * [Express](https://expressjs.com/es/) - Es un framework de nodejs que nos permite crear un servidor de manera muy sencilla.
 * [Handlebars](https://handlebarsjs.com/) - Es un motor de plantillas muy popular.
 
+### Instalación 🔧
+
+_Para la instalación del proyecto de la calculadora se tiene que ejecutar en la consola el siguiente comando: Para que descargue
+todas las dependencias y modulos que utilice._ 
+```
+npm install
+```
+
+_Para ejecutar el proyecto de la calculadora se tiene que ejecutar el siguiente comando:_
+```
+npm run dev
+```
+
 ### Autor ✒️
 
