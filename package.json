@@ -1,0 +1,19 @@
+{
+  "name": "calculadora-js",
+  "version": "1.0.0",
+  "description": "Calculadora utilizando el dom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon servidor.js"
+  },
+  "author": "Ezequiel Romero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
