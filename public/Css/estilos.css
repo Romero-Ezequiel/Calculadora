@@ -1,0 +1,85 @@
+/*Le agrego algunos estilos al body, un padding y un margin para que los
+botones esten un poco mas pegados y tambien le agrego un background para
+ponerle color a todo el cuerpo de la calculadora*/
+body{
+    padding: 0;
+    margin: 0;
+    background: #000428;  
+    background: -webkit-linear-gradient(to right, #004e92, #000428);  
+    background: linear-gradient(to right, #004e92, #000428); 
+}
+
+/*En la clase calculadora, le aplico al div contenedor que habia creado
+en la vista calculadora, y le aplico estos estilos para armar como una grilla
+de los botones de la calculadora*/
+.calculadora{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    min-height: 100vh;
+    grid-template-columns: repeat(4, 100px);
+    grid-template-rows: minmax(120px, auto) repeat(5, 100px);
+}
+
+/*Aca le doy estilo al contenedor que contiene toda la calculadora*/
+.caja-calculadora{
+    background: #0F2027;  
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); 
+    width: 32%;
+    height: 35rem;
+    align-content: center;
+    margin: auto;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+
+/*Aca le doy algunos estilos a los botones*/
+.calculadora > button{
+    cursor: pointer;
+    font-size: 2rem;
+    border: 1px solid white;
+    border-radius: 5px;
+    outline: none;
+    background-color: rgba(255, 255, 255, .75);
+}
+
+/*Acá le doy un estilo especial al boton de borrado, utilice la clase
+.borrado que habia creado en dicho boton*/
+.calculadora > .borrado{
+    background-color: red;
+    color:white;
+}
+
+.calculadora > .borrado:hover{
+    background-color: rgba(255, 255, 255, .9);
+    color:black;
+}
+
+.salida{
+    grid-column: 1 / -1;
+   /* background-color: rgba(0, 0, 0, .75);*/
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    flex-direction: column;
+    padding: 10px;
+    word-wrap: break-word;
+    word-break: break-all; 
+}
+
+.salida .display{
+    /*color: black;*/
+   /*font-size: 1.85rem;*/
+   /* font-size: 2.08rem;*/
+    width: 100%;
+    height: 70%;
+    border-radius: 10px;
+    font-size: 1.8rem;
+    text-align: right;
+}
+
+.calculadora > button:hover{
+    background: greenyellow;
+    color: blue;
+}
