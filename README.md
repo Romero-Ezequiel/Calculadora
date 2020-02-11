@@ -1,6 +1,6 @@
 # Calculadora
 
-_Realice una calculadora_
+Realice una calculadora utilizando el DOM de javascript, además realizo un servidor con NodeJs para levantar y visualizar dicha calculadora.
 
 ### Construido con 🛠️
 _La calculadora está realizada organizada con lo siguiente:_
@@ -25,3 +25,4 @@ npm run dev
 
 ### Autor ✒️
 
+#### _Ezequiel Romero_
