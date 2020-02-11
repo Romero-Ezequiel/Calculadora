@@ -1,6 +1,6 @@
 # Calculadora
 
-Realice una calculadora utilizando el DOM de javascript, además realizo un servidor con NodeJs para levantar y visualizar dicha calculadora.
+Realice una calculadora utilizando el DOM de javascript, además realice un servidor con NodeJs para levantar y visualizar dicha calculadora.
 
 ### Construido con 🛠️
 _La calculadora está realizada organizada con lo siguiente:_
