@@ -25,4 +25,4 @@ npm run dev
 
 ### Autor ✒️
 
-#### _Ezequiel Romero_
+* **Ezequiel Romero** - *_Trabajo Inicial_* 
