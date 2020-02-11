@@ -1,9 +1,9 @@
 # Calculadora
 
-Realice una calculadora utilizando el DOM de javascript, además realice un servidor con NodeJs para levantar y visualizar dicha calculadora.
+Realice una calculadora utilizando el DOM de javascript además realice un servidor con NodeJs para levantar y visualizar dicha calculadora.
 
 ### Construido con 🛠️
-_La calculadora está realizada organizada con lo siguiente:_
+_La calculadora está realizada con lo siguiente:_
 
 * [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) - Es un lenguaje de programación que se utiliza principalmente para crear páginas web dinámicas.
 * [Node.js](https://nodejs.org/es/) - Es un entorno de ejecución para JavaScript construido con el motor de JavaScript V8 de Chrome.
@@ -12,7 +12,7 @@ _La calculadora está realizada organizada con lo siguiente:_
 
 ### Instalación 🔧
 
-_Para la instalación del proyecto de la calculadora se tiene que ejecutar en la consola el siguiente comando: Para que descargue
+_Para la instalación del proyecto de la calculadora, se tiene que ejecutar en la consola el siguiente comando: Para poder descargar
 todas las dependencias y modulos que utilice._ 
 ```
 npm install
