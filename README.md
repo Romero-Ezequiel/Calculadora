@@ -25,7 +25,7 @@ npm run dev
 
 ### _Demostración final_
 
-![Calculadora](https://user-images.githubusercontent.com/54491030/74285652-13c3dd80-4d05-11ea-9e18-274f9b91624d.png)
+![calculadora-Js](https://user-images.githubusercontent.com/54491030/75727085-d4b0f880-5cc2-11ea-9a2c-798ad2a2c363.gif)
 
 ### Autor ✒️
 
