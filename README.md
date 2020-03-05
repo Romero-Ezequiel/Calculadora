@@ -23,7 +23,7 @@ _Para ejecutar el proyecto de la calculadora se tiene que ejecutar el siguiente 
 npm run dev
 ```
 
-### _Demostración final_
+### _Demo_
 
 ![calculadora-Js](https://user-images.githubusercontent.com/54491030/75727085-d4b0f880-5cc2-11ea-9a2c-798ad2a2c363.gif)
 
